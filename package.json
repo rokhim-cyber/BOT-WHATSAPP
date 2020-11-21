@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/rokhim-cyber/BOT-WHATSAPP"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Abdur Rokhim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url": "https://github.com/rokhim-cyber/BOT-WHATSAPP/issues"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage": "https://github.com/rokhim-cyber/BOT-WHATSAPP#readme"
 }
